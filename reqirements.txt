@@ -1,0 +1,3 @@
+pandas==2.2.1
+$Env:SRC_BASE_DIR = 'data/retail_db'
+$Env:TGT_BASE_DIR = 'data/retail_db_json'
